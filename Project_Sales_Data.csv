@@ -1,0 +1,101 @@
+Order_ID,Category,Sales,Profit,Region
+CA-2026-1000,Office Supplies,747,471,East
+CA-2026-1001,Technology,1186,215,West
+CA-2026-1002,Office Supplies,1262,46,East
+CA-2026-1003,Office Supplies,692,238,West
+CA-2026-1004,Technology,491,2,South
+CA-2026-1005,Technology,518,-17,Central
+CA-2026-1006,Office Supplies,388,-78,South
+CA-2026-1007,Furniture,478,200,West
+CA-2026-1008,Office Supplies,330,93,West
+CA-2026-1009,Office Supplies,1117,79,South
+CA-2026-1010,Office Supplies,140,409,West
+CA-2026-1011,Office Supplies,1151,-3,South
+CA-2026-1012,Technology,234,310,Central
+CA-2026-1013,Office Supplies,300,-57,South
+CA-2026-1014,Furniture,879,408,Central
+CA-2026-1015,Technology,1029,0,South
+CA-2026-1016,Furniture,1156,-77,West
+CA-2026-1017,Furniture,1171,-14,South
+CA-2026-1018,Furniture,602,125,West
+CA-2026-1019,Furniture,506,263,South
+CA-2026-1020,Technology,904,148,South
+CA-2026-1021,Technology,198,459,East
+CA-2026-1022,Furniture,783,202,West
+CA-2026-1023,Furniture,825,145,East
+CA-2026-1024,Technology,1060,310,West
+CA-2026-1025,Technology,712,-54,East
+CA-2026-1026,Technology,742,-53,Central
+CA-2026-1027,Office Supplies,1128,288,South
+CA-2026-1028,Office Supplies,1341,439,West
+CA-2026-1029,Office Supplies,602,350,West
+CA-2026-1030,Furniture,866,137,South
+CA-2026-1031,Office Supplies,497,440,West
+CA-2026-1032,Furniture,970,272,West
+CA-2026-1033,Furniture,894,-50,East
+CA-2026-1034,Office Supplies,492,214,West
+CA-2026-1035,Furniture,306,97,Central
+CA-2026-1036,Office Supplies,1138,410,Central
+CA-2026-1037,Office Supplies,991,62,South
+CA-2026-1038,Technology,963,-57,West
+CA-2026-1039,Office Supplies,842,145,South
+CA-2026-1040,Technology,1364,423,Central
+CA-2026-1041,Office Supplies,663,371,West
+CA-2026-1042,Office Supplies,1120,-199,West
+CA-2026-1043,Technology,195,103,South
+CA-2026-1044,Technology,584,53,Central
+CA-2026-1045,Office Supplies,330,451,West
+CA-2026-1046,Furniture,848,252,South
+CA-2026-1047,Technology,1294,-164,Central
+CA-2026-1048,Furniture,640,-41,South
+CA-2026-1049,Furniture,1159,-192,East
+CA-2026-1050,Furniture,624,32,West
+CA-2026-1051,Technology,1283,-102,East
+CA-2026-1052,Furniture,1366,458,Central
+CA-2026-1053,Technology,1209,7,East
+CA-2026-1054,Furniture,677,-70,East
+CA-2026-1055,Office Supplies,781,203,Central
+CA-2026-1056,Office Supplies,656,-49,South
+CA-2026-1057,Technology,1112,-147,East
+CA-2026-1058,Office Supplies,745,-81,South
+CA-2026-1059,Office Supplies,895,472,East
+CA-2026-1060,Furniture,1151,427,South
+CA-2026-1061,Technology,1463,386,Central
+CA-2026-1062,Furniture,1454,424,East
+CA-2026-1063,Furniture,1471,219,Central
+CA-2026-1064,Furniture,1354,221,East
+CA-2026-1065,Furniture,289,-97,Central
+CA-2026-1066,Furniture,1348,53,Central
+CA-2026-1067,Furniture,1406,26,East
+CA-2026-1068,Furniture,732,-89,East
+CA-2026-1069,Technology,727,309,East
+CA-2026-1070,Office Supplies,1072,272,West
+CA-2026-1071,Furniture,1382,-102,South
+CA-2026-1072,Furniture,1482,-48,West
+CA-2026-1073,Furniture,809,137,West
+CA-2026-1074,Furniture,748,-38,Central
+CA-2026-1075,Furniture,417,480,East
+CA-2026-1076,Furniture,1348,-40,South
+CA-2026-1077,Office Supplies,1357,379,Central
+CA-2026-1078,Office Supplies,783,197,West
+CA-2026-1079,Furniture,763,76,East
+CA-2026-1080,Office Supplies,1497,303,Central
+CA-2026-1081,Technology,1356,191,East
+CA-2026-1082,Furniture,1236,-66,Central
+CA-2026-1083,Technology,541,-6,East
+CA-2026-1084,Technology,663,200,West
+CA-2026-1085,Furniture,1391,439,South
+CA-2026-1086,Office Supplies,1236,-168,West
+CA-2026-1087,Technology,1051,487,South
+CA-2026-1088,Furniture,1204,259,East
+CA-2026-1089,Technology,798,269,Central
+CA-2026-1090,Technology,212,174,West
+CA-2026-1091,Technology,101,-179,South
+CA-2026-1092,Technology,741,469,West
+CA-2026-1093,Office Supplies,319,-163,South
+CA-2026-1094,Technology,954,29,West
+CA-2026-1095,Technology,1348,164,South
+CA-2026-1096,Technology,484,362,South
+CA-2026-1097,Office Supplies,1253,237,East
+CA-2026-1098,Technology,1176,82,South
+CA-2026-1099,Technology,829,-174,East
